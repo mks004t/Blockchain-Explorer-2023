@@ -23,3 +23,5 @@ npm run build
 
 #### Link of the App
 
+uploaded on aws ,
+
